@@ -1,0 +1,24 @@
+# OS and editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Transient files
+*.tmp
+*.bak
+*.swp
+
+# Local secrets / environment
+.env
+.env.*
+*.key
+*.pem
+
+# VM images and archives (not needed for this documentation repository)
+*.vdi
+*.vmdk
+*.ova
+*.ovf
+*.qcow2
+*.iso
